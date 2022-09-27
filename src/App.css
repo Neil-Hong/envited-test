@@ -1,7 +1,8 @@
 .App{
     position: relative;
-    width: 1512px;
-    height: 982px;
+    height:100%;
+    /* width: 1512px;
+    height: 982px; */
 
     background: linear-gradient(0deg, #F6F2FF, #F6F2FF), #FBFAFF;
 }

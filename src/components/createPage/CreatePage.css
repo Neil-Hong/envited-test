@@ -1,11 +1,21 @@
+.createPage{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height:100%;
+}
+
 .createPage_container{
     display: flex;
     flex-direction: column;
     text-align:center;
     align-items:flex-start;
-    position: absolute;
-    top:40%;
-    left:40%;
+    margin-top:10%;
+    margin-bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
     color:#8456EC;
 }
 
