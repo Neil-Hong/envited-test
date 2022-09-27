@@ -1,0 +1,39 @@
+.createPage_container{
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+    align-items:flex-start;
+    position: absolute;
+    top:40%;
+    left:40%;
+    color:#8456EC;
+}
+
+.createButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 10px;
+    width: 187px;
+    height: 50px;
+    margin-top: 20px;
+
+
+    background: linear-gradient(90deg, #8456EC 3.25%, #E87BF8 100%);
+    border-radius: 10px;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+input{
+    margin-bottom: 10px;
+}
